@@ -1,6 +1,6 @@
-nginx:1.19.2-alpine
+nvidia/cuda:12.3.2-cudnn9-runtime-ubuntu22.04
 #支持私库
-#r.gitlab.aiunicorn.com/base/mirror/nginx:1.19.2-alpine
-nginx:1.19.2-alpine
+#r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
+nvidia/cuda:12.3.2-cudnn9-runtime-ubuntu22.04
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
