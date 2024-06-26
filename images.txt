@@ -1,6 +1,6 @@
-python:3.10.1-slim-buster
+python:3.12.4-slim-bullseye
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
-python:3.10.1-slim-buster
+python:3.12.4-slim-bullseye
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
