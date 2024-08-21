@@ -4,7 +4,8 @@
 #grafana/loki:main
 #mongo:4.4.29
 #python:3.7.12-slim-buster
-redis:5.0.14
+#redis:5.0.14
+busybox:stable
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -15,7 +16,8 @@ redis:5.0.14
 #grafana/loki:main
 #mongo:4.4.29
 #python:3.7.12-slim-buster
-redis:5.0.14
+#redis:5.0.14
+busybox:stable
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
