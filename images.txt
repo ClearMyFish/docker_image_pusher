@@ -9,7 +9,8 @@
 #scrapinghub/splash:3.0
 #kibana:7.17.7
 #isprascrawlers/scrapy-puppeteer-service:0.3.6
-node:16.18-alpine
+#node:16.18-alpine
+nginx:1.10.3
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -25,7 +26,8 @@ node:16.18-alpine
 #scrapinghub/splash:3.0
 #kibana:7.17.7
 #isprascrawlers/scrapy-puppeteer-service:0.3.6
-node:16.18-alpine
+#node:16.18-alpine
+nginx:1.10.3
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
