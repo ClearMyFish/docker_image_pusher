@@ -15,7 +15,8 @@
 #ubuntu:22.04
 #postgres:17.0
 #hibiken/asynqmon:0.7.2
-minio/minio:RELEASE.2022-03-17T06-34-49Z
+#minio/minio:RELEASE.2022-03-17T06-34-49Z
+golang:1.23-bullseye
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -37,7 +38,8 @@ minio/minio:RELEASE.2022-03-17T06-34-49Z
 #ubuntu:22.04
 #postgres:17.0
 #hibiken/asynqmon:0.7.2
-minio/minio:RELEASE.2022-03-17T06-34-49Z
+#minio/minio:RELEASE.2022-03-17T06-34-49Z
+golang:1.23-bullseye
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
