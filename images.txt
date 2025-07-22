@@ -18,7 +18,8 @@
 #minio/minio:RELEASE.2022-03-17T06-34-49Z
 #golang:1.23-bullseye
 #debian:bullseye-slim
-registry.k8s.io/nfd/node-feature-discovery:v0.17.2
+#registry.k8s.io/nfd/node-feature-discovery:v0.17.2
+lmsysorg/sglang:v0.4.8.post1-cu126
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -43,7 +44,8 @@ registry.k8s.io/nfd/node-feature-discovery:v0.17.2
 #minio/minio:RELEASE.2022-03-17T06-34-49Z
 #golang:1.23-bullseye
 #debian:bullseye-slim
-registry.k8s.io/nfd/node-feature-discovery:v0.17.2
+#registry.k8s.io/nfd/node-feature-discovery:v0.17.2
+lmsysorg/sglang:v0.4.8.post1-cu126
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
