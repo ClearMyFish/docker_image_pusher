@@ -19,7 +19,8 @@
 #golang:1.23-bullseye
 #debian:bullseye-slim
 #registry.k8s.io/nfd/node-feature-discovery:v0.17.2
-lmsysorg/sglang:v0.4.8.post1-cu126
+#lmsysorg/sglang:v0.4.8.post1-cu126
+stirlingtools/stirling-pdf:latest
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -45,7 +46,8 @@ lmsysorg/sglang:v0.4.8.post1-cu126
 #golang:1.23-bullseye
 #debian:bullseye-slim
 #registry.k8s.io/nfd/node-feature-discovery:v0.17.2
-lmsysorg/sglang:v0.4.8.post1-cu126
+#lmsysorg/sglang:v0.4.8.post1-cu126
+stirlingtools/stirling-pdf:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
