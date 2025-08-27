@@ -21,7 +21,8 @@
 #registry.k8s.io/nfd/node-feature-discovery:v0.17.2
 #lmsysorg/sglang:v0.4.8.post1-cu126
 #stirlingtools/stirling-pdf:latest
-stirlingtools/stirling-pdf:latest-fat
+#stirlingtools/stirling-pdf:latest-fat
+nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -49,7 +50,8 @@ stirlingtools/stirling-pdf:latest-fat
 #registry.k8s.io/nfd/node-feature-discovery:v0.17.2
 #lmsysorg/sglang:v0.4.8.post1-cu126
 #stirlingtools/stirling-pdf:latest
-stirlingtools/stirling-pdf:latest-fat
+#stirlingtools/stirling-pdf:latest-fat
+nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
