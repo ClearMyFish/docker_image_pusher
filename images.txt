@@ -23,7 +23,8 @@
 #stirlingtools/stirling-pdf:latest
 #stirlingtools/stirling-pdf:latest-fat
 #nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04
-node:22.2.0-alpine
+#node:22.2.0-alpine
+neo4j:4.4.44-community
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -53,7 +54,8 @@ node:22.2.0-alpine
 #stirlingtools/stirling-pdf:latest
 #stirlingtools/stirling-pdf:latest-fat
 #nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04
-node:22.2.0-alpine
+#node:22.2.0-alpine
+neo4j:4.4.44-community
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
