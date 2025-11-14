@@ -25,7 +25,8 @@
 #nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04
 #node:22.2.0-alpine
 #neo4j:4.4.44-community
-mysql:8.4.5
+#mysql:8.4.5
+python:3.11.13-slim-trixie
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -57,7 +58,8 @@ mysql:8.4.5
 #nvidia/cuda:11.6.1-cudnn8-runtime-ubuntu20.04
 #node:22.2.0-alpine
 #neo4j:4.4.44-community
-mysql:8.4.5
+#mysql:8.4.5
+python:3.11.13-slim-trixie
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
