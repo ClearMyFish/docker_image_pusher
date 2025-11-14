@@ -26,7 +26,8 @@
 #node:22.2.0-alpine
 #neo4j:4.4.44-community
 #mysql:8.4.5
-python:3.11.13-slim-trixie
+#python:3.11.13-slim-trixie
+node:20-trixie-slim
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -59,7 +60,8 @@ python:3.11.13-slim-trixie
 #node:22.2.0-alpine
 #neo4j:4.4.44-community
 #mysql:8.4.5
-python:3.11.13-slim-trixie
+#python:3.11.13-slim-trixie
+node:20-trixie-slim
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
