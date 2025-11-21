@@ -28,7 +28,8 @@
 #mysql:8.4.5
 #python:3.11.13-slim-trixie
 #node:20-trixie-slim
-logstash:7.17.7
+#logstash:7.17.7
+apipark/apipark:v1.2.0-beta
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -63,7 +64,8 @@ logstash:7.17.7
 #mysql:8.4.5
 #python:3.11.13-slim-trixie
 #node:20-trixie-slim
-logstash:7.17.7
+#logstash:7.17.7
+apipark/apipark:v1.2.0-beta
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
