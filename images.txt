@@ -31,7 +31,8 @@
 #logstash:7.17.7
 #apipark/apipark:v1.2.0-beta
 #redis:7.2.4
-eolinker/apinto-gateway
+#eolinker/apinto-gateway
+influxdb:2.6
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -69,7 +70,8 @@ eolinker/apinto-gateway
 #logstash:7.17.7
 #apipark/apipark:v1.2.0-beta
 #redis:7.2.4
-eolinker/apinto-gateway
+#eolinker/apinto-gateway
+influxdb:2.6
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
