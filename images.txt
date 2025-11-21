@@ -29,7 +29,8 @@
 #python:3.11.13-slim-trixie
 #node:20-trixie-slim
 #logstash:7.17.7
-apipark/apipark:v1.2.0-beta
+#apipark/apipark:v1.2.0-beta
+redis:7.2.4
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -65,7 +66,8 @@ apipark/apipark:v1.2.0-beta
 #python:3.11.13-slim-trixie
 #node:20-trixie-slim
 #logstash:7.17.7
-apipark/apipark:v1.2.0-beta
+#apipark/apipark:v1.2.0-beta
+redis:7.2.4
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
