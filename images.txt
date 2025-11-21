@@ -34,7 +34,8 @@
 #eolinker/apinto-gateway
 #influxdb:2.6
 #grafana/loki:3.2.1
-grafana/grafana:11.3.2
+#grafana/grafana:11.3.2
+nsqio/nsq:v1.3.0
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -75,7 +76,8 @@ grafana/grafana:11.3.2
 #eolinker/apinto-gateway
 #influxdb:2.6
 #grafana/loki:3.2.1
-grafana/grafana:11.3.2
+#grafana/grafana:11.3.2
+nsqio/nsq:v1.3.0
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
