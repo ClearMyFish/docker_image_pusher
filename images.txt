@@ -40,7 +40,8 @@
 #elasticsearch:8.11.0
 #node:22.14.0-bookworm-slim
 #golang:1.24
-node:22-slim
+#node:22-slim
+mcr.microsoft.com/playwright:v1.58.1-noble
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -87,7 +88,8 @@ node:22-slim
 #elasticsearch:8.11.0
 #node:22.14.0-bookworm-slim
 #golang:1.24
-node:22-slim
+#node:22-slim
+mcr.microsoft.com/playwright:v1.58.1-noble
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
