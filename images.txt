@@ -39,7 +39,8 @@
 #apipark/apipark:v1.9.6-beta
 #elasticsearch:8.11.0
 #node:22.14.0-bookworm-slim
-golang:1.24
+#golang:1.24
+node:22-slim
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -85,7 +86,8 @@ golang:1.24
 #apipark/apipark:v1.9.6-beta
 #elasticsearch:8.11.0
 #node:22.14.0-bookworm-slim
-golang:1.24
+#golang:1.24
+node:22-slim
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
