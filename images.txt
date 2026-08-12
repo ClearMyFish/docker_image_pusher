@@ -41,7 +41,8 @@
 #node:22.14.0-bookworm-slim
 #golang:1.24
 #node:22-slim
-mcr.microsoft.com/playwright:v1.58.1-noble
+#mcr.microsoft.com/playwright:v1.58.1-noble
+linuxserver/smokeping:2.9.0
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -89,7 +90,8 @@ mcr.microsoft.com/playwright:v1.58.1-noble
 #node:22.14.0-bookworm-slim
 #golang:1.24
 #node:22-slim
-mcr.microsoft.com/playwright:v1.58.1-noble
+#mcr.microsoft.com/playwright:v1.58.1-noble
+linuxserver/smokeping:2.9.0
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
