@@ -25,6 +25,10 @@ jobs:
         df -hT
         echo "=============================================================================="
 
+    # 新增：停止 containerd，避免挂载时文件被占用
+    - name: Stop containerd
+      run: sudo systemctl stop containerd
+
     # 增加可用磁盘空间
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
@@ -37,10 +41,12 @@ jobs:
         # 如果空间还是不够用，可以把以下开启，清理出更多空间
         # remove-android: 'true'
         # remove-codeql: 'true'
-        build-mount-path: '/var/lib/docker/'
+        build-mount-path: '/var/lib/containerd'
 
     - name: Restart docker
-      run: sudo service docker restart
+      run: |
+        sudo systemctl start containerd
+        sudo service docker restart
 
     - name: Free up disk space complete
       run: |
