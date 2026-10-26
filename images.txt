@@ -44,7 +44,8 @@
 #mcr.microsoft.com/playwright:v1.58.1-noble
 #linuxserver/smokeping:2.9.0
 #justsong/one-api
-dhi.io/tailscale:1
+#dhi.io/tailscale:1
+tailscale/tailscale:stable
 
 #支持私库
 #r.gitlab.aiunicorn.com/base/mirror/12.3.2-cudnn9-runtime-ubuntu22.04
@@ -95,7 +96,7 @@ dhi.io/tailscale:1
 #mcr.microsoft.com/playwright:v1.58.1-noble
 #linuxserver/smokeping:2.9.0
 #justsong/one-api
-dhi.io/tailscale:1
+tailscale/tailscale:stable
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
